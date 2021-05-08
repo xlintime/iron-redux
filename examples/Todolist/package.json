@@ -1,0 +1,13 @@
+{
+  "description": "todolist by iron-redux example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodolist",
+    "iron-redux"
+  ],
+  "author": "xlintime",
+  "license": "MIT"
+}
